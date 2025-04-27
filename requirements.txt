@@ -1,0 +1,11 @@
+functions-framework
+pandas
+flask
+google-cloud-storage
+google-cloud-bigquery
+numpy
+openai
+transformers
+torch
+textblob
+pyarrow
